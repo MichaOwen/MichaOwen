@@ -2,4 +2,6 @@
 
 I'm Owen, A beginner Software Engineer from Indonesia
 
+> "Consistency beats intensity."
+
 📫 How to reach me: owenadriansyah@gmail.com
